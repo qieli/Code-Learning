@@ -1,2 +1,2 @@
 # Code-Learning
-you know noting about coding
+you know noting
